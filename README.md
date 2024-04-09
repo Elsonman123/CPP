@@ -8,7 +8,7 @@ Created a simple calucaltor
 Currently creating a battle ship Game  
 
 ## Project Ideas
-[Link] (https://pwskills.com/blog/top-31-c-project-ideas-for-beginners-advanced/) for ideas for C++ projects to complete
+[Link](https://pwskills.com/blog/top-31-c-project-ideas-for-beginners-advanced/) for ideas for C++ projects to complete
 
 ## Git commands  
 Here are some  quick commands for git you should need/ use  
@@ -23,4 +23,4 @@ git fetch = fetches lasts commit
 git push origin = pushes main to origin (online repo)  
 ```
 
-More commands can be found on the [Cheatsheet] (https://education.github.com/git-cheat-sheet-education.pdf)  
+More commands can be found on the [Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)  
