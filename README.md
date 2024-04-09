@@ -7,6 +7,9 @@ Created a simple calucaltor
 ## Projects
 Currently creating a battle ship Game  
 
+## Project Ideas
+[Link] (https://pwskills.com/blog/top-31-c-project-ideas-for-beginners-advanced/) for ideas for C++ projects to complete
+
 ## Git commands  
 Here are some  quick commands for git you should need/ use  
 ```
