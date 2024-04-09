@@ -2,9 +2,9 @@
 
 ## Target 1: Fully implement a battle ship against a bot   
 ### Currently active and in progress    
-- [ ] Make grid 
-- [ ] Make random ships
-- [ ] Make selecting whether a ship is hit or not
+- [x] Make grid 
+- [x] Make random ships
+- [x] Make selecting whether a ship is hit or not
 - [ ] Record and display grid of hit squares
 - [ ] Make end game when all ships are hit
 
