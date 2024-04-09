@@ -1,14 +1,14 @@
-### Currently project is a CLI game of battelship against a bot
+## Currently project is a CLI game of battelship against a bot
 
 ##Target 1: Fully implement a battle ship against a bot   
-###Currently active and in progress   
+###Currently active and in progress    
 - [ ] Make grid 
 - [ ] Make random ships
 - [ ] Make selecting whether a ship is hit or not
 - [ ] Record and display grid of hit squares
 - [ ] Make end game when all ships are hit
 
-###Next
+###Next  
 - [ ] Make random or assignable grid 
 - [ ] Make random number of battle ships depending on the size of the grid 
 - [ ] Make selecting whether ship is hit or not
